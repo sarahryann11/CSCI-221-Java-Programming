@@ -4,7 +4,7 @@ package Lab1;
  * @author Sarah Nicholson
  * @since September 5, 2016
  * @version 1
- * Java clas that computes the area and circumference of a circle and prints the results.
+ * Java class that computes the area and circumference of a circle and prints the results.
  */
 
 import java.util.Scanner;
